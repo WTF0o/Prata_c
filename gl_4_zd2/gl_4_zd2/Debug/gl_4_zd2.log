@@ -1,0 +1,8 @@
+﻿  gl_4_zd2.cpp
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_4_zd2\gl_4_zd2\gl_4_zd2.cpp(23): warning C4101: arr: неиспользованная локальная переменная
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_4_zd2\gl_4_zd2\gl_4_zd2.cpp(20): warning C4101: b: неиспользованная локальная переменная
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_4_zd2\gl_4_zd2\gl_4_zd2.cpp(19): warning C4101: actor: неиспользованная локальная переменная
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_4_zd2\gl_4_zd2\gl_4_zd2.cpp(21): warning C4101: c: неиспользованная локальная переменная
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_4_zd2\gl_4_zd2\gl_4_zd2.cpp(22): warning C4101: d: неиспользованная локальная переменная
+  gl_4_zd2.vcxproj -> c:\users\mrale\onedrive\документы\visual studio 2017\Projects\gl_4_zd2\Debug\gl_4_zd2.exe
+  gl_4_zd2.vcxproj -> c:\users\mrale\onedrive\документы\visual studio 2017\Projects\gl_4_zd2\Debug\gl_4_zd2.pdb (Partial PDB)

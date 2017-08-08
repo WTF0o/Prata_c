@@ -1,0 +1,4 @@
+﻿  gl_6_prakt2.cpp
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_6_prakt2\gl_6_prakt2\gl_6_prakt2.cpp(19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  gl_6_prakt2.vcxproj -> c:\users\mrale\onedrive\документы\visual studio 2017\Projects\gl_6_prakt2\Debug\gl_6_prakt2.exe
+  gl_6_prakt2.vcxproj -> c:\users\mrale\onedrive\документы\visual studio 2017\Projects\gl_6_prakt2\Debug\gl_6_prakt2.pdb (Partial PDB)
