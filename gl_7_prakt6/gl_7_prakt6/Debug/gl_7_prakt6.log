@@ -1,0 +1,4 @@
+﻿  gl_7_prakt6.cpp
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_7_prakt6\gl_7_prakt6\gl_7_prakt6.cpp(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  gl_7_prakt6.vcxproj -> C:\Users\mrale\onedrive\документы\visual studio 2017\Projects\gl_7_prakt6\Debug\gl_7_prakt6.exe
+  gl_7_prakt6.vcxproj -> C:\Users\mrale\onedrive\документы\visual studio 2017\Projects\gl_7_prakt6\Debug\gl_7_prakt6.pdb (Partial PDB)
