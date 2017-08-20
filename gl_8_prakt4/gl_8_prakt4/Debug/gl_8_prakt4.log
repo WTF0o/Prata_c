@@ -1,0 +1,7 @@
+﻿  gl_8_prakt4.cpp
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_8_prakt4\gl_8_prakt4\gl_8_prakt4.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note:  см. объявление "strcpy"
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_8_prakt4\gl_8_prakt4\gl_8_prakt4.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mrale\onedrive\документы\visual studio 2017\projects\gl_8_prakt4\gl_8_prakt4\gl_8_prakt4.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+  gl_8_prakt4.vcxproj -> c:\users\mrale\onedrive\документы\visual studio 2017\Projects\gl_8_prakt4\Debug\gl_8_prakt4.exe
+  gl_8_prakt4.vcxproj -> c:\users\mrale\onedrive\документы\visual studio 2017\Projects\gl_8_prakt4\Debug\gl_8_prakt4.pdb (Partial PDB)
